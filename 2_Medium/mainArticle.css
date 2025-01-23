@@ -1,0 +1,110 @@
+.main-articles{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.articles-container{
+    width: 600px;
+    /* border: 1px solid black; */
+    height: 2500px;
+    margin-left: 80px;
+}
+
+.articles-topics-container{
+    width: 400px;
+    /* border: 1px solid black; */
+    height: 300px;
+    position: sticky;
+    top: 80px;
+}
+
+.articles-topics-container-heading{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.butonsss{
+    margin: 5px;
+}
+.buttonss{
+    border-radius: 50px;
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+    border:none;
+}
+
+.See-more-topics{
+    color: green;
+    font-family: sans-serif;
+}
+
+.a-tags{
+    font-size: 16px;
+    font-family: sans-serif;
+    color: grey;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.container-1{
+    /* border: 1px solid black; */
+    height: 170px;
+    display: flex;
+}
+
+.container-1-heading{
+    font-size: 12px;
+    font-weight: 600;
+
+}
+
+.container-1-heading-2{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.container-1-part2{
+    height: 150px;
+    /* border: 1px solid black; */
+    width: 70px;
+    background-size: contain;
+    margin-left: 50px;
+}
+
+.container-1-heading-3{
+color: gray;
+margin-top: 5px;
+}
+
+
+.container-1-heading,
+.container-1-heading-2,
+.container-1-heading-3{
+    font-family: sans-serif;
+}
+
+.container-1-heading-4{
+    margin-top: 10px;
+    color: gray;
+    font-size: 15px;
+}
+
+
+.portugal{
+    color: gray;
+    border-radius: 50px;
+    width: 80px;
+    border:none;
+
+}
+
+.container-1-part2 img{
+    /* border: 1px solid black; */
+    height: 120px;
+    width: 200px;
+    background-size: contain;
+}
+
